@@ -1,1 +1,2 @@
 # Academy-Campus---Secure-Network-
+Through this project, I aimed to implement advanced security measures while learning how to effectively safeguard our digital infrastructure. Along the way, I encountered numerous challenges that required extensive troubleshooting and prompted significant research using tools like Cisco Packet Tracer. By documenting my journey and the steps taken, I am not only creating a secure network that meets current challenges and prepares for future threats but also sharing valuable insights gained from hands-on experience.
